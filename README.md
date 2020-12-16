@@ -1,1 +1,1 @@
-7.ThreadHomework
+Create a project where there will be 4 threads that must constantly increase the counter every 10 ms. This should be the 5th thread, which will output the counter value to the console every 1000 ms. You must choose how to avoid race condition.
